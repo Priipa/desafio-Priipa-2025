@@ -4,16 +4,13 @@
 Primeiramente agradeço à DB pela oportunidade de participar do processo seletivo e pelo desafio proposto. Foi uma experiência valiosa para exercitar raciocínio.
 
 ## Estrutura do projeto
-.
-├─ jest.config.js
 
-├─ package.json
-
-└─ src
-
-   ├─ abrigo-animais.js              # implementação da solução
-   ├─ abrigo-animais.test.js         # testes base do desafio
-   └─ abrigo-animais.exemplo.test.js # testes dos exemplos do enunciado
+      ├─ jest.config.js
+      ├─ package.json
+      └─ src
+        ├─ abrigo-animais.js              # implementação da solução
+        ├─ abrigo-animais.test.js         # testes base do desafio
+        └─ abrigo-animais.exemplo.test.js # testes dos exemplos do enunciado
 
 ## O que foi feito em cada arquivo .js
 
